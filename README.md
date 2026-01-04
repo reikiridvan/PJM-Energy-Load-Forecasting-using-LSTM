@@ -55,7 +55,6 @@ As a Junior Machine Learning Engineer, a common misconception is that "more trai
 📈 Results
 The final model (optimized with Early Stopping) successfully captures the cyclical nature of energy demand, accounting for daily peak hours and seasonal trends.
 
-![Prediction Graph](path/to/your/prediction_image.png)
 
 🤝 Feedback
 I am actively learning and improving my understanding of Deep Learning dynamics. If you have suggestions regarding the LSTM architecture or Hyperparameter Tuning, please feel free to open an issue or reach out!
