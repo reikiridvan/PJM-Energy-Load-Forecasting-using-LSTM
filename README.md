@@ -1,4 +1,4 @@
-# US Eastern Energy Load Forecasting (PJM) ⚡
+# [Energy Preditcion] US Eastern Energy Load Forecasting (PJM) ⚡
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)
