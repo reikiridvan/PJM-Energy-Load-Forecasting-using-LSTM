@@ -26,8 +26,8 @@ As a Junior Machine Learning Engineer, a common misconception is that "more trai
 **Visual Evidence:**
 *(The graph below demonstrates the divergence between Training Loss and Validation Loss)*
 
-![Loss Graph - Training vs Validation 500 Epochs](path/to/your/loss_image.png)
-<img width="567" height="569" alt="LSTM_500 EPOCH" src="https://github.com/user-attachments/assets/8b914cae-ff25-4215-840e-df7378b693e9" />
+![Loss Graph - Training vs Validation 500 Epochs]
+<img width="1072" height="857" alt="LSTM_500 EPOCH_Full screen" src="https://github.com/user-attachments/assets/1845313a-5cab-40d0-a227-10cbfe651a27" />
 
 🛠️ Tech Stack & Methodology
 * **Model Architecture:** LSTM (Long Short-Term Memory) Neural Network.
