@@ -16,7 +16,7 @@ The core objective of this repository is not just to build a prediction model, b
 * **Preprocessing:** Data normalization using `MinMaxScaler` to aid LSTM convergence.
 
 <img width="1732" height="874" alt="150 Epoch (1)" src="https://github.com/user-attachments/assets/078a8fa3-8130-4e4f-a90e-65cd739b4035" />
-## 🧪 The Experiment: 150 vs. 500 Epochs
+🧪 The Experiment: 150 vs. 500 Epochs
 As a Junior Machine Learning Engineer, a common misconception is that "more training equals better performance." I tested this hypothesis by monitoring the model's behavior over extended epochs.
 
 ### Key Observations:
@@ -26,16 +26,16 @@ As a Junior Machine Learning Engineer, a common misconception is that "more trai
 **Visual Evidence:**
 *(The graph below demonstrates the divergence between Training Loss and Validation Loss)*
 
-![Loss Graph - Training vs Validation](path/to/your/loss_image.png)
-*(Note: Replace `path/to/your/loss_image.png` with your actual image filename)*
+![Loss Graph - Training vs Validation 500 Epochs](path/to/your/loss_image.png)
+<img width="567" height="569" alt="LSTM_500 EPOCH" src="https://github.com/user-attachments/assets/8b914cae-ff25-4215-840e-df7378b693e9" />
 
-## 🛠️ Tech Stack & Methodology
+🛠️ Tech Stack & Methodology
 * **Model Architecture:** LSTM (Long Short-Term Memory) Neural Network.
 * **Frameworks:** TensorFlow (Keras), Scikit-Learn.
 * **Data Handling:** Pandas, NumPy.
 * **Visualization:** Matplotlib.
 
-## 🚀 How to Run This Project
+🚀 How to Run This Project
 
 1.  **Clone the repository:**
     ```bash
@@ -50,10 +50,10 @@ As a Junior Machine Learning Engineer, a common misconception is that "more trai
     python main_forecasting.py
     ```
 
-## 📈 Results
+📈 Results
 The final model (optimized with Early Stopping) successfully captures the cyclical nature of energy demand, accounting for daily peak hours and seasonal trends.
 
 ![Prediction Graph](path/to/your/prediction_image.png)
 
-## 🤝 Feedback
+🤝 Feedback
 I am actively learning and improving my understanding of Deep Learning dynamics. If you have suggestions regarding the LSTM architecture or Hyperparameter Tuning, please feel free to open an issue or reach out!
