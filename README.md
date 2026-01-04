@@ -6,6 +6,8 @@
 
 ## 📌 Project Overview
 This project focuses on **Time Series Forecasting** to predict hourly energy consumption using the **PJM Interconnection (PJME)** dataset. PJM is a regional transmission organization in the United States that coordinates the movement of wholesale electricity in the Eastern US.
+https://github.com/archd3sai/Hourly-Energy-Consumption-Prediction/blob/master/PJME_hourly.csv 
+https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
 
 The core objective of this repository is not just to build a prediction model, but to conduct a **comparative analysis on model convergence**, specifically investigating the effects of prolonged training (Overfitting vs. Generalization).
 
